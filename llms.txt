@@ -1,0 +1,52 @@
+# Dominykas | E-commerce developer
+
+> E. parduotuvių ir svetainių kūrimas, tobulinimas, greitis ir priežiūra. WooCommerce, Shopify, PrestaShop, WordPress. Fiksuota kaina, viskas raštu.
+
+- Darau: Kūrimas · Tobulinimas · Greitis · Priežiūra
+- Platformos: WooCommerce · Shopify · WordPress · PrestaShop (po patikros)
+- Garantija: Visiems darbams: visada išpildomi kliento lūkesčiai iki tobulumo. Mokate už pasiektus norimus rezultatus
+- El. paštas: dominykas@aniscenka.lt
+- Vieta: Lietuva
+
+## Kainos
+
+- Kūrimas ir tobulinimas: Pagal apimtį. Fiksuotą kainą ir terminą gaunate per 1 darbo dieną nuo aprašymo. Kaina sutariama raštu prieš pradedant darbus.
+- Greičio optimizavimas: Nuo 250 €. 3 darbo dienos nuo prieigų gavimo. Jei užsikrovimo laikas telefone (PageSpeed) nepagerėja bent 20 %, nemokate.
+- Klaidų taisymas: Nuo 150 €. Dažniausiai 2-3 darbo dienos nuo prieigų gavimo. Rastas problemas pateikiu prieš pradedant.
+- Mėnesinė parduotuvės priežiūra: Nuo 300 €/mėn. Iki 6 val. per mėnesį. Darbą pradedu per 1 darbo dieną.
+
+## DUK
+
+### Kiek kainuoja nauja parduotuvė?
+Priklauso nuo apimties. Aprašykite, ko reikia, ir per 1 darbo dieną gausite fiksuotą kainą ir terminą raštu.
+
+### Kam priklauso svetainė ir prieigos?
+Jums. Viskas kuriama jūsų paskyrose, baigęs perduodu visas prieigas.
+
+### Kokių prieigų reikia?
+Administratoriaus prieigos prie parduotuvės ir prieigos prie hostingo (jei ne Shopify). Baigus darbus, prieigas galite panaikinti.
+
+### Ar garantija galioja visiems darbams?
+Taip. Visiems darbams suteikiama garantija, visada išpildomi kliento lūkesčiai iki tobulumo. Mokate už pasiektus norimus rezultatus. Greičio darbams yra ir aiškus matas: jei mobilusis LCP pagal PageSpeed nepagerėja bent 20 %, grąžinu avansą.
+
+### O jei greitis nepagerės?
+Prieš darbus ir po jų tris kartus paleidžiu Google PageSpeed testą telefonui tam puslapiui, kurį sutariame raštu, ir imu vidurinį pagrindinio turinio užsikrovimo laiko (LCP) rezultatą. Jei jis nepagerėja bent 20 %, grąžinu avansą ir likusios dalies nemokate.
+
+### O jei po darbų kas nors suges?
+Per 14 dienų po perdavimo nemokamai pataisau tai, ką dariau, jei tai nustoja veikti ne dėl vėlesnių jūsų ar kitų žmonių pakeitimų ar atnaujinimų. Tai neriboja įstatyme numatytų vartotojų teisių.
+
+### Ar galiu atsisakyti sutarties?
+Jei užsakote kaip fizinis asmuo, sutarties galite atsisakyti per 14 dienų nuo jos sudarymo, nenurodydami priežasties. Užtenka parašyti dominykas@aniscenka.lt. Jei paprašėte darbus pradėti anksčiau, sumokate tik už iki atsisakymo atliktą dalį. Kai darbai jūsų prašymu visiškai atlikti, atsisakymo teisė nebegalioja.
+
+### Ar dirbate su senomis PrestaShop ar OpenCart versijomis?
+Įvertinu po patikros. Jei darbas ne man, pasakau iškart.
+
+### Ar galite dirbti agentūros vardu?
+Taip. Jūsų klientai lieka jūsų klientais, o sąskaitą jiems išrašote jūs.
+
+### Ar skambinate?
+Dažniausiai bendrauju raštu, kad visi susitarimai liktų užfiksuoti. Jei reikia, galime ir paskambinti.
+
+## Kita kalba
+
+- English: https://aniscenka.com/
