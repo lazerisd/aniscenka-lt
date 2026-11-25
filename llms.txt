@@ -47,6 +47,10 @@ Taip. Jūsų klientai lieka jūsų klientais, o sąskaitą jiems išrašote jūs
 ### Ar skambinate?
 Dažniausiai bendrauju raštu, kad visi susitarimai liktų užfiksuoti. Jei reikia, galime ir paskambinti.
 
+## Tyrimai
+
+- [Kas lėtina e. parduotuves telefone: 40 atsitiktinių WooCommerce parduotuvių iš kainos.lt patikra](https://aniscenka.lt/greitis-telefone/): 2026 m. lapkritį „Google PageSpeed“ patikrinau 40 atsitiktinai parinktų „WooCommerce“ parduotuvių iš kainos.lt. Dažniausias radinys: puslapio atvaizdavimą stabdantys CSS arba „JavaScript“ failai (36 iš 40). Penki radiniai ir kaip pasitikrinti savo parduotuvę.
+
 ## Kita kalba
 
 - English: https://aniscenka.com/
